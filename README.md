@@ -1,0 +1,3 @@
+- This project is built for Stock Market trading.
+- In this project i implemented lots of strategies that can help the trader for taking buy or sell signal.
+- All the strategies used in this project are used by many traders that's why i built this system to make it more easy.
